@@ -1,0 +1,4 @@
+﻿  Methods1.cpp
+C:\Users\Alex\Documents\Проекты\Числаки\Methods1\Methods1\Methods1.cpp(20,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Documents\Проекты\Числаки\Methods1\Methods1\Methods1.cpp(23,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Methods1.vcxproj -> C:\Users\Alex\Documents\Проекты\Числаки\Methods1\Debug\Methods1.exe
